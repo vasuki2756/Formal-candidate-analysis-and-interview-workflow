@@ -1,0 +1,20 @@
+# Backend directory
+backend/
+# Frontend directory  
+frontend/
+
+# Environment files
+.env
+*.pyc
+__pycache__/
+venv/
+.venv/
+node_modules/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
