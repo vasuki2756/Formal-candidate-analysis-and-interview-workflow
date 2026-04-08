@@ -1,15 +1,16 @@
-# Backend directory
-backend/
-# Frontend directory  
-frontend/
-
 # Environment files
 .env
+
+# Python
 *.pyc
 __pycache__/
 venv/
 .venv/
+.venv-1/
+
+# Node
 node_modules/
+dist/
 
 # IDE
 .idea/
